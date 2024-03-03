@@ -7,23 +7,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavjangra29" alt="abhinavjangra29" /></a> </p>
 
-- 🔭 I’m currently working on **blind image deconvolution**
+- 🔭 I’m currently working on **Machine Learning Models**
 
-- 🌱 I’m currently learning **fullstack webdev and machine learning**
+- 🌱 I’m currently learning **Fullstack webdev**
 
-- 👯 I’m looking to collaborate on **fullstack ML**
+- 👯 I’m looking to collaborate on **OpenCv Based Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbhinavJangra29](https://github.com/AbhinavJangra29)
+- 👨‍💻 All of my projects are available at [https://github.com/Dhruv110903](https://github.com/Dhruv110903)
 
-- 📫 How to reach me **abhinavjangra29@gmail.com**
+- 📫 How to reach me **dhruv.vatsa1111@gmail.com**
 
-- ⚡ Fun fact **I make good badjokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhinavjangra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavjangra" height="30" width="40" /></a>
-<a href="https://instagram.com/abhinav_298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinav_298" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhinavcode69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinavcode69" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhruv-vatsa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-vatsa" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dhruv_vatsa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruv_vatsa1" height="30" width="40" /></a>
+<a href="https://leetcode.com/Dhruv1109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Dhruv1109" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
