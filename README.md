@@ -3,9 +3,9 @@
 
 <img align="right" alt="Walter White Cooking" width="400" src="https://media1.tenor.com/images/a2275664d542e8c76b89086ed9d2327f/tenor.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavjangra29&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavjangra29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruv110903&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruv110903" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavjangra29" alt="abhinavjangra29" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhruv110903" alt="Dhruv110903" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning Models**
 
