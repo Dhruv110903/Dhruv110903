@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">Interested in MERN Stack and making Machine Learning Models.</h3>
+<h3 align="center">Interested in Python based data analytics along with MERN stack development.</h3>
 
 <img align="right" alt="Walter White Cooking" width="400" src="https://media1.tenor.com/images/a2275664d542e8c76b89086ed9d2327f/tenor.gif">
 
