@@ -1,17 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">Interested in Python based data analytics along with MERN stack development.</h3>
 
 <img align="right" alt="Walter White Cooking" width="400" src="https://media1.tenor.com/images/a2275664d542e8c76b89086ed9d2327f/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruv110903&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruv110903" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhruv110903" alt="Dhruv110903" /></a> </p>
-
-- 🔭 I’m currently working on **Machine Learning Models**
-
-- 🌱 I’m currently learning **Fullstack webdev**
-
-- 👯 I’m looking to collaborate on **OpenCv Based Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhruv110903](https://github.com/Dhruv110903)
 
